@@ -2,7 +2,7 @@
  * @file lab_intro.cpp
  * Implementations of image manipulation functions.
  */
-
+//Ashi first push
 #include <iostream>
 #include <cmath>
 #include <cstdlib>
